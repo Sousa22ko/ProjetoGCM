@@ -14,5 +14,8 @@ public class GameEngine {
 		return ' ';
 	}
 	
+	public static ImageIcon getImage(){
+		return foto;
+	}
 	
 }
